@@ -1,4 +1,4 @@
 Hello World, my name is Sumit!
-I'm a third year MIS student at San José State University studying MIS
+I'm a third year student at San José State University studying MIS
 I've recently started using GitHub and The Odin Project
 I believe it will be useful for my career. 
